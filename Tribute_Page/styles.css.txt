@@ -1,0 +1,52 @@
+body{
+background-color:#D3D3D3
+} 
+
+#title {
+text-align: center;
+text-shadow: 5px 5px 10px white;
+font-size: 70px;
+padding-bottom: 2px
+}
+
+#quote {
+text-align: center;
+margin-top: 5px
+}
+
+img {
+display:block;
+}
+
+#image {
+max-width: 100%;
+height:auto;
+margin: 0 auto;
+}
+
+#caption {            
+font-size: 15px;
+font-family:Non-Serif;
+color: black;
+}
+
+div#tribute-info {
+background-color: #b0d4b4;
+box-shadow: 9px 10px 10px #6db075;
+font-family: Georgia;
+padding: 25px 25px;
+margin: 10px;
+margin-top: 50px;
+}
+
+h2.timeline-title{
+font-size: 37px;
+color: #1c4721;
+text-align: center;
+text-shadow: 5px 5px 10px white;
+}
+
+#tribute-link{
+text-decoration: none;
+color: #068037;
+}

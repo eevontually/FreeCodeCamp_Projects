@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Product Landing Page</title>
+    <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+
+<header id="header">
+    <img id="header-img" src="https://cdn-icons-png.flaticon.com/512/1007/1007336.png?w=740&t=st=1660678117~exp=1660678717~hmac=b8e7763e79e44db1164b2ebec763c98e4ea43ce829f9039cef54bc4471fcc5e0"/>
+<div id="logo-name"><b>MUNCHPAK</b></div>
+
+
+<nav id="nav-bar">
+  <ul>
+    <li><a class="nav-link" href="#overview" >Overview</a>
+    </li>
+
+    <li><a class="nav-link" href="#how_it_works" >How It Works</a>
+    </li>
+
+    <li><a class="nav-link" href="#pricing" >Pricing</a>
+    </li>
+
+    <li><a class="nav-link" href="#review" >Review</a>
+    </li>
+  </ul>
+
+</nav>
+</header>
+
+<section id="overview">
+  <h2 class="titles">OVERVIEW</h2>
+  <p>MunchPak started as a subscription box that takes snacks from all over the world and delivers them right to your door.
+MunchPaks are available as a monthly subscription or may be given as a gift. MunchPak offers convenient munching in a variety of sizes for you to enjoy.
+</p>
+</section>
+
+<section id="subscription">
+<p>
+  New and popular snacks from around the world.
+</p>
+<p>Delivered to your door!</p>
+ <form action="https://www.freecodecamp.com/email-submit" id="form">
+<input id="email" type="email"  required name="email" placeholder="Enter your email address"/>
+<input type="submit" id="submit" class="btn" value="Get Munchpak">
+</form>
+</p>
+</section>
+
+<section id="how_it_works">
+  <h3 class="titles">SEE HOW IT WORKS IN 4 SIMPLE STEPS:</h3>
+  <div class="all-steps">
+  <div class="steps">Step 01
+    <p class="steps-title">Subscribe or Give a gift</p>
+    <p class="steps-desc">Order for yourself or share the gift of MunchPak with your family or friends.</p>
+  </div>
+  <div class="steps">Step 02
+    <p class="steps-title">Made With Love</p>
+    <p class="steps-desc">Hand packed to the brim with a variety of the best tasting snacks from around the world.</p>
+  </div>
+  <div class="steps">Step 03
+    <p class="steps-title">Your Pak is shipped & delivered</p>
+    <p class="steps-desc">No waiting. We ship every day of the week (excluding weekends).</p>
+  </div>
+  <div class="steps">Step 04
+    <p class="steps-title">New snacks every delivery</p>
+    <p class="steps-desc">Discover new favorite snacks from around the world every month.</p>
+  </div>
+  </div>
+</section>
+
+<section id="pricing">
+  <h4 class="titles">PRICING</h4>
+  <p>(20 snacks in a box)</p>
+  <p><b>CHOOSE A PLAN</b></p>
+
+    <div class="pricing-box">
+      <p class="price-title">26.95 per delivery</p>
+      <hr>
+       <p class="price-desc">$26.95 every month</p>
+       <a href= "" class="btn">Select</a>
+    </div>
+
+    <div class="pricing-box">
+      <p class="price-title">$25.95 per delivery</p>
+      <hr>
+       <p class="price-desc">$77.85 every 3 months
+save $3.00</p>
+   <a href= "" class="btn">Select</a>
+    </div>
+
+    <div class="pricing-box">
+      <p class="price-title">$24.95 per delivery</p>
+      <hr>
+       <p class="price-desc">$149.70 every 6 months
+save $12.00</p>
+<a href= "" class="btn">Select</a>
+    </div>
+
+    <div class="pricing-box">
+      <p class="price-title">$22.95 per delivery</p>
+      <hr>
+       <p class="price-desc">$275.40 every 12 months
+save $48.00</p>
+<a href= "" class="btn">Select</a>
+    </div>
+</section>
+
+<section id="review">
+  <h5 class="titles">HERE'S WHAT OUR FANS HAVE TO SAY!</h5>
+  <div>
+  <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/TVQUkDaZZTU">
+  </iframe>
+  </div>
+</section>
+
+<footer class="footer-nav">
+  <div>
+    <ul>
+      <li><a href=""></a>FAQs</li>
+      <li><a href=""></a>Privacy Policy</li>
+      <li><a href=""></a>Terms of Use</li>
+    </ul>
+  </div>
+  <div class="footer-copyright">
+    <p>Copyright © 2022 MunchPak®</p>
+    <p>A registered mark of MunchPak LLC. All rights reserved.</p>
+  </div>
+</footer>
+
+
+ </body>
+    </html>

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tribute Page</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+<main id="main">
+ 
+    <h1 class="text-center" id="title">ROBIN WILLIAMS</h1>
+  
+  <div id="quote">
+  <p>- You're Only Given One Little Spark of Madness. You Mustn't Lose It -</p>
+  </div>
+
+<div id="img-div">
+  <img id="image" src="https://www.reviewjournal.com/wp-content/uploads/2019/08/12628215_web1_AP_8402100120.jpg" alt="Robin Williams' Photo"><figcaption id="img-caption">Robin Williams, center, takes time out from rehearsal at NBC's "Saturday Night Live" with cast members Eddie Murphy, left, and Joe Piscopo in 1984.</figcaption>
+
+
+
+  <div id="tribute-info">
+
+<h2 class="timeline-title">Timeline of Robin Williams' life:</h2> 
+
+<p>
+<ul>
+<li><b>1951</b> - Born in Chicago, in the state of Illinois.</li>
+<li><b>1967</b> - Moves to Marina Williams County, California.</li>
+<li><b>1970</b> - Starts as a stand-up comedian in San Francisco and Los Angeles.</li>
+<li><b>1977</b> - Appears in a low-budget comedy Can I Do It 'Till I Need Glasses?.</li>
+<li><b>1978</b> - Marries his first wife, Valerie Velardi.</li>
+<li><b>1979</b> - Wins first Golden Globe Award with best TV actor in "Mork and Mindy".</li>
+<li><b>1980</b> - Stars in his first starring role in the children comedy film Popeye, directed by Robert Altman.</li>
+<li><b>1983</b> - Birth of his first son, Zachary Pym "Zak" Williams.</li>
+<li><b>1986</b> - Teams up with Whoopi Goldberg and Billy Crystal to fund Comic Relief USA, an annual HBO television benefit devoted to the homeless.</li>
+<li><b>1988</b> - Divorces her first wife, Velardi.</li>
+<li><b>1989</b> - Marries Marsha Garces, Zachary's nanny, who was pregnant with his child.</li>
+<li><b>1990</b> - Nominated for best actor Oscar for "Dead Poets Society."</li>
+<li><b>1998</b> - Wins an Oscar for best actor for his memorable performance in the film Good Will Hunting.</li>
+<li><b>2005</b> - Receives the Cecil B. DeMille Award for career achievement from the Hollywood Foreign Press Association.</li>
+<li><b>2006</b> - Seeks treatment for alcohol dependency.</li>
+<li><b>2009</b> - Goes through heart surgery to replace his aortic valve.</li>
+<li><b>2014</b> - Dies by suicide at the age of 63.</li>
+</ul>
+</p>
+</div>
+
+Read more about this incredible human being on his<a id="tribute-link" target="_blank" href="https://en.wikipedia.org/wiki/Robin_Williams"> Wikipedia entry.
+
+</main>
+</body>
+</html>
