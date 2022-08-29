@@ -50,3 +50,7 @@ text-shadow: 5px 5px 10px white;
 text-decoration: none;
 color: #068037;
 }
+
+figcaption{
+text-align: center;
+}
